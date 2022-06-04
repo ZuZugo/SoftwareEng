@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Layout/UserLayout.cshtml";
+}
+
+<h2>Login</h2>
+
+@using (Html.BeginForm())
+{
+    <span>User Name: </span>
+    <br />
+    @Html.TextBox("userNameTxt");
+    <br />
+    <span>Password: </span>
+    <br />
+    <input name="passwordTxt" type="text" />
+    <br />
+    <input type="submit" id="btnSubmit" name="btnSubmit" />
+    <span>
+        @Html.ActionLink("Register", "Register", "User")
+    </span>
+}

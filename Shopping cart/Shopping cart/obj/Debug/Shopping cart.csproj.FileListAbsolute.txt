@@ -1,0 +1,83 @@
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\Shopping cart.dll.config
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\Shopping cart.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\Shopping cart.pdb
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\csc.exe
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\csc.exe.config
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\csc.rsp
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\csi.exe
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\csi.exe.config
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\csi.rsp
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\System.AppContext.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\System.Console.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\System.IO.Compression.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\System.Net.Http.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\System.ValueTuple.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\vbc.exe
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\vbc.exe.config
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\vbc.rsp
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\VBCSCompiler.exe
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\Antlr3.Runtime.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\Newtonsoft.Json.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\System.Web.Helpers.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\System.Web.Mvc.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\System.Web.Optimization.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\System.Web.Razor.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\System.Web.WebPages.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\System.Web.WebPages.Razor.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\WebGrease.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\System.Web.Helpers.xml
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\System.Web.Mvc.xml
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\System.Web.Optimization.xml
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\System.Web.Razor.xml
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\System.Web.WebPages.xml
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\System.Web.WebPages.Razor.xml
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\Newtonsoft.Json.xml
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\Antlr3.Runtime.pdb
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\obj\Debug\Shopping cart.csproj.AssemblyReference.cache
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\obj\Debug\Shopping cart.csproj.CoreCompileInputs.cache
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\obj\Debug\Shopping cart.csproj.CopyComplete
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\obj\Debug\Shopping cart.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\obj\Debug\Shopping cart.pdb
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\EntityFramework.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\EntityFramework.SqlServer.dll
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\EntityFramework.xml
+C:\Users\vuqua\OneDrive\Máy tính\Final_Prject_SE\Shopping cart\Shopping cart\bin\EntityFramework.SqlServer.xml

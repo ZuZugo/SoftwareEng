@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="4d8ce841bb82439697c7d306e6a2e4a6" Name="Diagram1">
+        <EntityTypeShape EntityType="TestCNPMModel.Customer" Width="1.5" PointX="0.75" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="TestCNPMModel.Delivery_Note" Width="1.5" PointX="5.25" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="TestCNPMModel.Detail_Order" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="TestCNPMModel.Order" Width="1.5" PointX="3" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="TestCNPMModel.Warehouse" Width="1.5" PointX="3" PointY="7.625" IsExpanded="true" />
+        <AssociationConnector Association="TestCNPMModel.FK__Order__CustomerI__7755B73D" ManuallyRouted="false" />
+        <AssociationConnector Association="TestCNPMModel.FK__Delivery___Order__7A3223E8" ManuallyRouted="false" />
+        <AssociationConnector Association="TestCNPMModel.FK__Detail_Or__GoodI__793DFFAF" ManuallyRouted="false" />
+        <AssociationConnector Association="TestCNPMModel.FK__Detail_Or__Order__7849DB76" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

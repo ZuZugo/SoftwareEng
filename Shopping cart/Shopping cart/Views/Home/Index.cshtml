@@ -1,0 +1,33 @@
+﻿
+@{
+    Layout = "~/Views/Layout/UserLayout.cshtml";
+    ViewBag.Title = "Index";
+}
+
+
+@{
+    foreach (var item in Model)
+    {
+        <div class="grid_1_of_4 images_1_of_4">
+            <!--<a href="preview.html"><img src="images/feature-pic1.jpg" alt="" /></a>-->
+            <h2>@item.Item</h2>
+            <div class="price-details">
+                <div class="price-number">
+                    <p><span class="rupees">@item.Price</span></p>
+                </div>
+                @using (Html.BeginForm("AddToCart", "Cart", new { @GoodID = item.GoodID, @strURL = Request.Url.ToString() }))
+                {
+                    <div class="add-cart">
+
+                        <input type="submit" value="Add To Cart" id="btnAddToCart" class="btn btn-primary" />
+
+                    </div>
+
+                }
+                <div class="clear"></div>
+            </div>
+
+        </div>
+    }
+}
+

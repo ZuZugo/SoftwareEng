@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewBag.Title = "EditCart";
+    Layout = "~/Views/Layout/UserLayout.cshtml";
+}
+
+<h2>Cart</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">GoodID</th>
+            <th scope="col">Name</th>
+            <th scope="col">Unit Price</th>
+            <th scope="col">Quantity</th>
+            <th scope="col">Total Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+
+            <tr>
+                <td>@item.GoodID</td>
+                <td>@item.Name</td>
+                <td>@item.UnitPrice</td>
+                @using (Html.BeginForm("UpdateCart", "Cart", new { @GoodID = item.GoodID, enctype = "multipart/form-data" }))
+                {
+                    <td>@Html.TextBox("txtQuantity", (int)item.Quantity) </td>
+
+
+                    <td>@item.Total</td>
+                     <td><input type="submit" value="Update" /></td>
+                     <td>
+                         <br />
+                         @Html.ActionLink("Remove Cart","RemoveCart", new {@GoodID= item.GoodID})
+                     </td>
+                }
+            </tr>
+        }
+            
+   
+
+    </tbody>
+</table>

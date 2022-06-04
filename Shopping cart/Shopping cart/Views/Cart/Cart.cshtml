@@ -1,0 +1,54 @@
+﻿
+@{
+    ViewBag.Title = "Cart";
+    Layout = "~/Views/Layout/UserLayout.cshtml";
+}
+
+<h2>Cart</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">GoodID</th>
+            <th scope="col">Name</th>
+            <th scope="col">Unit Price</th>
+            <th scope="col">Quantity</th>
+            <th scope="col">Total Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.GoodID</td>
+                <td>@item.Name</td>
+                <td>@item.UnitPrice</td>
+                <td>@item.Quantity</td>
+                <td>@item.Total</td>
+
+            </tr>
+
+        }
+        <tr>
+            <td colspan="5" style="text-align:right; color:blue">
+                @Html.ActionLink("Edit Cart", "EditCart")
+            </td>
+            
+        </tr>
+        <tr>
+            <td colspan="5" style="text-align:right; color:blue">
+                @using (Html.BeginForm("Order", "Cart"))
+                {
+                <span>
+                    Momo @Html.RadioButton("Payment", "Momo")
+                    Cash @Html.RadioButton("Payment", "Cash")
+                    Bank Tranfer @Html.RadioButton("Payment", "BankTranfer")
+                </span>
+
+                    <input type="submit" value="Order" />
+                }
+            </td>
+        </tr>
+        
+
+    </tbody>
+</table>
